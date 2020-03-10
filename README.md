@@ -1,8 +1,8 @@
 # PyHTML
 
-[![NaabNuts](PoweredByNaabnuts.png)](http://www.naabnuts.com/)
+[![NaabNuts](images/PoweredByNaabnuts.png)](http://www.naabnuts.com/)
 
-[![Build Status](passing.svg)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](images/passing.svg)](https://travis-ci.org/joemccann/dillinger)
 
 By using PyHTML,you can create responsive HTML outputs
 for Python with program self created windows that are
